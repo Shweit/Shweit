@@ -5,10 +5,10 @@
 ## I'm a Freelancer and student of the BTI in Neuss!
 
 - 🔭 Currently Developing: [CorpMily Media Group][website]!
-- 🌱 Currentöy learning Django
+- 🌱 Currenty learning Django
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Finish developing CorpMily
-- ⚡ Fun fact: I love to drive arounf in my car at night!
+- ⚡ Fun fact: I love to drive around in my car at night!
 
 ### Connect with me:
 
