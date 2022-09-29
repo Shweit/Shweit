@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=corpmily.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://corpmily.com)
 
-## I'm a Freelancer and student of the BTI in Neuss!
+## I'm a Freelancer and student of the IU in Düsseldorf!
 
 - 🔭 Currently Developing: [CorpMily Media Group][website]!
 - 🌱 Currenty learning Django
