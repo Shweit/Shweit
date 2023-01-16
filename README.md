@@ -1,13 +1,11 @@
-### Hi there, I'm Dennis - aka [Shweit][website] 👋 
-
-[![Website](https://img.shields.io/website?label=corpmily.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://corpmily.com)
+### Hi there, I'm Dennis - aka Shweit 👋 
 
 ## I'm a Freelancer and student of the IU in Düsseldorf!
 
 - 🔭 Currently Developing for EasyBill!
-- 🌱 Currenty learning -
+- 🌱 Currenty learning - Ruby
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Finish developing CorpMily
+- 🥅 2023 Goals: Studing for UNI
 - ⚡ Fun fact: I love to drive around in my car at night!
 
 ### Connect with me:
@@ -35,7 +33,6 @@
 <br />
 <br />
 
-[website]: https://corpmily.com
 [twitter]: https://twitter.com/Shweit5
 [instagram]: https://www.instagram.com/ibimsshweit/
 [linkedin]: https://www.linkedin.com/in/dennis-van-den-brock-07848321a/
