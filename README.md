@@ -86,17 +86,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shweit/Shweit/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/vlcmgdt4dhikmgys13fx3hgc8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vlcmgdt4dhikmgys13fx3hgc8&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
